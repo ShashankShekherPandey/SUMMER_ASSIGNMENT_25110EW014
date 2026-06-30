@@ -1,4 +1,4 @@
-//code1
+git init//code1
 #include <stdio.h>
 
 int main() {
